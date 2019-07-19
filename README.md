@@ -1,0 +1,2 @@
+# weixinProject.github.io
+wx
